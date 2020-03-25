@@ -27,6 +27,9 @@ export class CustomersComponent implements OnInit {
     }
 
     // Add getCustomers() function here
+    getCustomers() {
+        this.store.dispatch
+    }
 
 
 }
